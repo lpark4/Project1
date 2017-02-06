@@ -9,19 +9,20 @@
 .finish {
     transform: rotate(90deg);
     transform-origin: right top 0;
-    margin-top:435px;
-    margin-right: 130px;
+    margin-top:560px;
+    margin-right: 10px;
     float:right;
     font-size: 60px;
-    letter-spacing: 35px;
+    letter-spacing: 55px;
     color: tomato;
     font-weight:bold;
     text-decoration: underline;
+   
 }
 
 .raceLane {
     align-self: center;
-    width: 93%;
+    width: 99%;
     height: 10%;
 }
 
@@ -35,6 +36,7 @@
     width: 6.5%;
     height: auto;
     vertical-align:middle;
+    border-radius: 50%;
 }
 
 .placeText {
